@@ -1,0 +1,11 @@
+{
+    "ai_name": "Nova",
+    "model": "llama3.2",
+    "vision_model": "llava-phi3",
+    "embed_model": "nomic-embed-text",
+    "voice_enabled": true,
+    "language": "auto",
+    "never_refuse": true,
+    "window_width": 1100,
+    "window_height": 750
+}

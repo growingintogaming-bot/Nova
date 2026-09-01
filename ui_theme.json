@@ -1,0 +1,10 @@
+{
+  "theme_name": "Obsidian Minimal",
+  "bg_main": "#121214",
+  "bg_sidebar": "#0a0a0c",
+  "bg_card": "#1c1c20",
+  "accent_primary": "#38bdf8",
+  "accent_secondary": "#818cf8",
+  "text_main": "#f8fafc",
+  "text_muted": "#94a3b8"
+}
